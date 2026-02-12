@@ -1,4 +1,4 @@
-# 🎓 IUH nvminh162 org
+# 🎓 IUH nvminh162 Organization
 
 <div align="center">
   

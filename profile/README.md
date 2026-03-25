@@ -42,17 +42,9 @@ This organization was created to:
 
 ## 📚 Repository List
 
-| # | Repository | Description | Language |
-|---|------------|-------------|----------|
-| 1 | [iuh-distributed-programming-java](https://github.com/nvminh162-iuh/iuh-distributed-programming-java) | Distributed programming with java technology | Java |
-| 2 | [iuh-mobile-application-programming](https://github.com/nvminh162-iuh/iuh-mobile-application-programming) | Mobile Application Programming | TypeScript |
-| 3 | [iuh-www-programming](https://github.com/nvminh162-iuh/iuh-www-programming) | Advanced Web Programming/ WWW Programming (Java) | Java |
-| 4 | [iuh-quality-assurance-and-software-testing](https://github.com/nvminh162-iuh/iuh-quality-assurance-and-software-testing) | Quality assurance and software testing | C# |
-| 5 | [iuh-phan-tich-thiet-ke-he-thong](https://github.com/nvminh162-iuh/iuh-phan-tich-thiet-ke-he-thong) | System Analysis and Design | - |
-| 6 | [iuh-nhap-mon-an-toan-thong-tin](https://github.com/nvminh162-iuh/iuh-nhap-mon-an-toan-thong-tin) | Introduction to Information Security | - |
-| 7 | [iuh-emerging-technologies-it-app-development](https://github.com/nvminh162-iuh/iuh-emerging-technologies-it-app-development) | Emerging Technologies in IT Application Development | - |
-| 8 | [iuh-software-project-management](https://github.com/nvminh162-iuh/iuh-software-project-management) | Software Project Management | - |
-| 9 | [.github](https://github.com/nvminh162-iuh/.github) | Github organizations profile README | - |
+| # | Repository | Description |
+|---|------------|-------------|
+| 1 | [List Repo](https://github.com/orgs/nvminh162-iuh/repositories) | List Repo IUH |
 
 ---
 
